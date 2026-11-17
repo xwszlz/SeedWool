@@ -8,6 +8,9 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="alternate" hreflang="zh-CN" href="/cn.html">
+<link rel="alternate" hreflang="en" href="/">
+<script src="assets/js/lang.js" defer></script>
 <style>
 :root{
 --basalt:#1E2730;--moss:#3D9970;--moss-light:#4FC38A;--sand:#E8DCC8;--sand-dark:#D4C4B0;
@@ -224,7 +227,7 @@ img{max-width:100%;height:auto;display:block}
 <a href="#contact">Contact</a>
 </nav>
 <div class="nav-actions" style="display:flex;align-items:center;gap:14px">
-<span class="lang" style="font-size:13px;color:var(--ink-muted)">中文</span>
+<button class="lang-toggle" id="langToggle" type="button" aria-label="切换到中文版" title="中文版" style="font:inherit;font-size:13px;color:var(--ink)">中文</button>
 <button class="btn-primary" onclick="openVerifyModal()">Batch Verification</button>
 </div>
 </div>
