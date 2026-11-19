@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://seedwool.com/index.html</loc><lastmod>2026-11-18</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://seedwool.com/rice.html</loc><lastmod>2026-11-18</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://seedwool.com/soon-insulation.html</loc><lastmod>2026-11-18</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://seedwool.com/soon-vegetable.html</loc><lastmod>2026-11-18</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://seedwool.com/soon-desert.html</loc><lastmod>2026-11-18</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://seedwool.com/soon-sponge.html</loc><lastmod>2026-11-18</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://www.seedwool.com/</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.seedwool.com/substrate.html</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.seedwool.com/rice.html</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.seedwool.com/seedling.html</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.seedwool.com/other.html</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.seedwool.com/rockwool.html</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.seedwool.com/yaas.html</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.seedwool.com/standards.html</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.seedwool.com/global.html</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.seedwool.com/about.html</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.seedwool.com/contact.html</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.seedwool.com/verify.html</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.seedwool.com/privacy.html</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://seedwool.cn/</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link rel="alternate" hreflang="zh-CN" href="https://seedwool.cn/"/><xhtml:link rel="alternate" hreflang="en" href="https://www.seedwool.com/"/></url>
+  <url><loc>https://seedwool.cn/substrate.html</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link rel="alternate" hreflang="zh-CN" href="https://seedwool.cn/substrate.html"/><xhtml:link rel="alternate" hreflang="en" href="https://www.seedwool.com/substrate.html"/></url>
+  <url><loc>https://seedwool.cn/rice.html</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link rel="alternate" hreflang="zh-CN" href="https://seedwool.cn/rice.html"/><xhtml:link rel="alternate" hreflang="en" href="https://www.seedwool.com/rice.html"/></url>
+  <url><loc>https://seedwool.cn/seedling.html</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link rel="alternate" hreflang="zh-CN" href="https://seedwool.cn/seedling.html"/><xhtml:link rel="alternate" hreflang="en" href="https://www.seedwool.com/seedling.html"/></url>
+  <url><loc>https://seedwool.cn/other.html</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link rel="alternate" hreflang="zh-CN" href="https://seedwool.cn/other.html"/><xhtml:link rel="alternate" hreflang="en" href="https://www.seedwool.com/other.html"/></url>
+  <url><loc>https://seedwool.cn/rockwool.html</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link rel="alternate" hreflang="zh-CN" href="https://seedwool.cn/rockwool.html"/><xhtml:link rel="alternate" hreflang="en" href="https://www.seedwool.com/rockwool.html"/></url>
+  <url><loc>https://seedwool.cn/yaas.html</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link rel="alternate" hreflang="zh-CN" href="https://seedwool.cn/yaas.html"/><xhtml:link rel="alternate" hreflang="en" href="https://www.seedwool.com/yaas.html"/></url>
+  <url><loc>https://seedwool.cn/standards.html</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link rel="alternate" hreflang="zh-CN" href="https://seedwool.cn/standards.html"/><xhtml:link rel="alternate" hreflang="en" href="https://www.seedwool.com/standards.html"/></url>
+  <url><loc>https://seedwool.cn/global.html</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link rel="alternate" hreflang="zh-CN" href="https://seedwool.cn/global.html"/><xhtml:link rel="alternate" hreflang="en" href="https://www.seedwool.com/global.html"/></url>
+  <url><loc>https://seedwool.cn/about.html</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link rel="alternate" hreflang="zh-CN" href="https://seedwool.cn/about.html"/><xhtml:link rel="alternate" hreflang="en" href="https://www.seedwool.com/about.html"/></url>
+  <url><loc>https://seedwool.cn/contact.html</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link rel="alternate" hreflang="zh-CN" href="https://seedwool.cn/contact.html"/><xhtml:link rel="alternate" hreflang="en" href="https://www.seedwool.com/contact.html"/></url>
+  <url><loc>https://seedwool.cn/verify.html</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link rel="alternate" hreflang="zh-CN" href="https://seedwool.cn/verify.html"/><xhtml:link rel="alternate" hreflang="en" href="https://www.seedwool.com/verify.html"/></url>
+  <url><loc>https://seedwool.cn/privacy.html</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link rel="alternate" hreflang="zh-CN" href="https://seedwool.cn/privacy.html"/><xhtml:link rel="alternate" hreflang="en" href="https://www.seedwool.com/privacy.html"/></url>
 </urlset>
